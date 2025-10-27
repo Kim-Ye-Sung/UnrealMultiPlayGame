@@ -1,6 +1,4 @@
-# UnrealMultiPlayGame
-
-# Title 미정
+# UnrealMultiPlayGame Title 미정
 언리얼 엔진 자체 리슨 서버를 활용한 멀티플레이 로그라이트 프로젝트  
 TPS, Puzzle, Stage요소를 포함하는 게임 제작 중
 
