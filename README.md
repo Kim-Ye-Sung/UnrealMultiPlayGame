@@ -6,8 +6,9 @@ TPS, Puzzle, Stage요소를 포함하는 게임 제작 중
 ## Screenshots
 현재 진행중이라 스크린샷은 아직 없음.
 
-## [프로젝트 현황 링크](https://github.com/Kim-Ye-Sung/Learning-Centered_MultiGame)
-- 현재 진행중인 프로젝트에서 제가 담당중인 코드입니다. 프로젝트 진행중이며, 학습중인 내용 그대로를 올렸기에 저의 코드 디자인을 가감없이 보실 수 있습니다.
+## [프로젝트 현황 링크](https://github.com/Kim-Ye-Sung/UnrealMultiPlayGame/tree/main/Source)
+- 현재 진행중인 프로젝트에서 제가 담당중인 소스코드입니다.
+- 프로젝트 진행과 학습중인 내용 그대로를 올렸기에 저의 코드 디자인을 가감없이 보실 수 있습니다.
 
 ## [프로젝트 현황 링크](https://github.com/Kim-Ye-Sung/Learning-Centered_MultiGame)
 - 아직 미완성인 프로젝트이며, 프로젝트 현황 및 프로젝트 진행을 위해 필요한 개념인 언리얼 엔진을 이용한 멀티플레이 게임 제작을 공부하여 정리한 학습현황 링크 입니다.
