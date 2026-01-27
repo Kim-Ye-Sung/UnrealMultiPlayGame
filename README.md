@@ -6,7 +6,7 @@ TPS, Puzzle, Stage요소를 포함하는 게임 제작 중
 ## Screenshots
 현재 진행중이라 스크린샷은 아직 없음.
 
-## [프로젝트 현황 링크](https://github.com/Kim-Ye-Sung/UnrealMultiPlayGame/tree/main/Source)
+## [소스코드 링크](https://github.com/Kim-Ye-Sung/UnrealMultiPlayGame/tree/main/Source)
 - 현재 진행중인 프로젝트에서 제가 담당중인 소스코드입니다.
 - 프로젝트 진행과 학습중인 내용 그대로를 올렸기에 저의 코드 디자인을 가감없이 보실 수 있습니다.
 
